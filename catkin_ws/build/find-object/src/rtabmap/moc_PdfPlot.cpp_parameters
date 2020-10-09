@@ -1,0 +1,13 @@
+-I/home/ubics/catkin_ws/devel/include
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_BUILD_SHARED_LIBS=1
+-DPROJECT_PREFIX="find_object"
+-DPROJECT_VERSION="0.6.3"
+-DPROJECT_NAME="find_object_2d"
+-DOPENCV_DEV
+-DQT_NO_KEYWORDS
+-DROS_PACKAGE_NAME="find_object_2d"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-o
+/home/ubics/catkin_ws/build/find-object/src/rtabmap/moc_PdfPlot.cpp
+/home/ubics/catkin_ws/src/find-object/src/rtabmap/PdfPlot.h
